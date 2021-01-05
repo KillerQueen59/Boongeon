@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Hit
+  - Sword
+  - JumpSword
+  - SpellFire
+  - SpellPlant
+  - SpellWater
+  - Ground
+  - Melee
+  - Range
+  - SpellPlayer
+  - Slash
+  - Dead
+  - PlantBook
+  - FireBook
+  - Boss
+  - WaterBook
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Plant
+  - Fire
+  - Water
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

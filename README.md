@@ -29,6 +29,15 @@ dan mengembalikannya agar kehidupan bisa kembali seperti semula.**
 ## Link Download Game
 https://drive.google.com/drive/folders/1_mK_2UsTx_7Yr6QdyRqzT-UHqA7Prdks?usp=sharing
 
+![alt text](https://github.com/KillerQueen59/Boongeon-Grafkom/blob/main/ss/1610701930582.jpg?raw=true)
+
+![alt text](https://github.com/KillerQueen59/Boongeon-Grafkom/blob/main/ss/1610701959731.jpg?raw=true)
+
+![alt text](https://github.com/KillerQueen59/Boongeon-Grafkom/blob/main/ss/1610701996946.jpg?raw=true)
+
+![alt text](https://github.com/KillerQueen59/Boongeon-Grafkom/blob/main/ss/1610702034984.jpg?raw=true)
+
+![alt text](https://github.com/KillerQueen59/Boongeon-Grafkom/blob/main/ss/1610702070944.jpg?raw=true)
 
 
 
